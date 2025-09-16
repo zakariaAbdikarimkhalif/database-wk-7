@@ -16,7 +16,7 @@
 
 --- 
 
-### Question 2 Achieving 2NF 
+### Query 2 Achieving 2NF 
 
 - given the following table **OrderDetails**, which is already in **1NF** but still contains partial dependencies:
 
